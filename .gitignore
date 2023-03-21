@@ -1,0 +1,4 @@
+model.save
+*.pyc
+__pycache__
+.history
